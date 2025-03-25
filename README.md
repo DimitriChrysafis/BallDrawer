@@ -5,6 +5,8 @@ I had to shrink resolution significantly
 
 ![Verlet Integration](media/verlet.gif)
 
+# Explanation
+https://dimitrichrysafis.github.io/#post/post7.md
 
 
 ## Video 1
